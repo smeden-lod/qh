@@ -1,6 +1,6 @@
 """
 Toutes les attaques sont stockées ici Joueur et Mobs compris.
-Les attaques ont un nom et des dégâts défini
+Les attaques ont un nom et des dégâts définis
 """
 
 
